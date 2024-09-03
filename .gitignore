@@ -361,3 +361,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/MarkPriceC#10andNet6/Snake.cs
+/MarkPriceC#10andNet6/Program.cs
+/MarkPriceC#10andNet6/UnuseCase.cs
